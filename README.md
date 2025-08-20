@@ -1,1 +1,1 @@
-# vrzoneyt.giyhub.io
+# vrzoneyt.github.io
